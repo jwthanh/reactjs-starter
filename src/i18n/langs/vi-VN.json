@@ -1,0 +1,30 @@
+{
+  "translation": {
+    "welcome": "Xin chào"
+  },
+  "common": {
+    "title": "ReactJS Starter"
+  },
+  "drawer": {
+    "menu1": "Menu 1",
+    "menu2": "Menu 2",
+    "menu3": "Menu 3",
+    "menu4": "Menu 4"
+  },
+  "register": {
+    "register": "Đăng ký",
+    "username": "Tên tài khoản",
+    "password": "Mật khẩu",
+    "repassword": "Nhập lại mật khẩu",
+    "fullName": "Họ và tên",
+    "signIn": "Đã có tài khoản? Đăng nhập"
+  },
+  "signIn": {
+    "signIn": "Đăng nhập",
+    "username": "Tên tài khoản",
+    "password": "Mật khẩu",
+    "rememberMe": "Ghi nhớ tài khoản",
+    "forgotPassword": "Quên mật khẩu?",
+    "register": "Chưa có tài khoản? Tạo tài khoản mới"
+  }
+}
